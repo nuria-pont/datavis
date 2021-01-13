@@ -5,6 +5,8 @@ Es concreta en l’estudi de les variables que fan referencia als drets als infa
 
 
 Visulatizació:
+
 https://public.tableau.com/profile/n.ria.pont#!/vizhome/pont_nuria_PAC3/Practica?publish=yes
+
 La crua realitat: Irrellevància dels infants en els acords de Pau(PaX) - Núria Pont | Tableau Public
 
