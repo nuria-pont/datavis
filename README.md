@@ -13,5 +13,6 @@ La crua realitat: Irrellevància dels infants en els acords de Pau(PaX) - Núria
 Per mes informació:
 
   Document Jupyter Notebook (IPYNB):  PONT_NURIA_PAC3_DATAVIS.html
+  
   Document tableau: La crua realitat Irrellevància dels infants en els acords de Pau(PaX).twbx
 
