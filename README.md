@@ -10,3 +10,8 @@ https://public.tableau.com/profile/n.ria.pont#!/vizhome/pont_nuria_PAC3/Practica
 
 La crua realitat: Irrellevància dels infants en els acords de Pau(PaX) - Núria Pont | Tableau Public
 
+Per mes informació:
+
+  Document Jupyter Notebook (IPYNB):  PONT_NURIA_PAC3_DATAVIS.html
+  Document tableau: La crua realitat Irrellevància dels infants en els acords de Pau(PaX).twbx
+
